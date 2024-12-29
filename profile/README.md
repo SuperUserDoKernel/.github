@@ -3,6 +3,8 @@
 
 ## Providing Sudo to Android Phones with skill issue since 2024
 
+### Supported Devices and SoCs
+- Exynos 9810 -> [Samsung Galaxy S9, S9 Plus, Note9]
 
 ## Acknowledgements
 
